@@ -1,4 +1,4 @@
 *.pyc
 build/*
 dist/*
-mongomodels.egg-info/*
+event_handler.egg-info/*
