@@ -1,5 +1,5 @@
 from unittest import TestCase
-from mongomodels.events import EventListener, EventThrower
+from event_handler import EventListener, EventThrower
 
 
 class SomeListener(EventListener):
